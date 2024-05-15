@@ -36,7 +36,7 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
 
 ## Other Resources 
 ---
-[List of LLarge Language Models (LLMs)](https://github.com/Hannibal046/Awesome-LLM)
+[List of Large Language Models (LLMs)](https://github.com/Hannibal046/Awesome-LLM)
 
 
 
