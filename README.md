@@ -28,5 +28,15 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
 ---
 [Presentation](https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Introduction-Workshop/blob/main/files/Prompt-Engineering-Intro-Gen-AI-101.pdf) 
 
+## The Evolution of Generative AI
+---
+<p align="center">
+ <img width="500" src="https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Introduction-Workshop/blob/main/files/generative_ai_evolution.png">
+</p>
+
+## Other Resources 
+---
+[List of LLarge Language Models (LLMs)](https://github.com/Hannibal046/Awesome-LLM)
+
 
 
