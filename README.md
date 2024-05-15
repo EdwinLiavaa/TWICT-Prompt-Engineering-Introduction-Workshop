@@ -20,11 +20,11 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
 
 ## Flyer
 ---
-![](https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Intro-Workshop/blob/main/files/flyer.jpg?raw=true)
+[Flyer](https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Intro-Workshop/blob/main/files/flyer.jpg?raw=true)
 
 ## Presentation
 ---
-https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Intro-Workshop/blob/main/files/Prompt-Engineering-Intro-Gen-AI-101.pdf 
+[Presentation]https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Intro-Workshop/blob/main/files/Prompt-Engineering-Intro-Gen-AI-101.pdf 
 
 
 
