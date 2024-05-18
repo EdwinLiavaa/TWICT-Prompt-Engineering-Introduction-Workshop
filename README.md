@@ -8,7 +8,7 @@ This workshop aims to provide an introduction to the emerging field of prompt en
 
 In this hands-on session, you'll learn:
 
-What prompt engineering is and why it's important Best practices for crafting clear and effective prompts. Different types of prompting techniques (zero-shot, one-shot, few-shot, chain-of-thought). Strategies for iterating and refining prompts Hands-on experience developing prompts for various use cases
+What prompt engineering is and why it's important "Best Practices" for crafting clear and effective prompts. Different types of prompting techniques (zero-shot, one-shot, few-shot, chain-of-thought). Strategies for iterating and refining prompts Hands-on experience developing prompts for various use cases
 
 By the end of the workshop, you'll have a solid understanding of prompt engineering fundamentals and be able to start exploring ways to leverage generative AI capabilities in your work or projects.
 
