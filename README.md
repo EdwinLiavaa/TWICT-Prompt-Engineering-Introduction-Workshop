@@ -36,15 +36,15 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
 
 ## Resources 
 ---
-# Models
+### Models
 
 [List of Large Language Models (LLMs)](https://github.com/Hannibal046/Awesome-LLM)
 
-# Best Free AI courses for 2024
+### Best Free AI courses for 2024
 
 Want to become an expert in AI? Find out more [here](https://www.zdnet.com/article/the-best-free-ai-courses/)
 
-## AI can make you 10x more productive. 
+### AI can make you 10x more productive. 
 
 These 8 websites will help you to become more productive in your life.
 
