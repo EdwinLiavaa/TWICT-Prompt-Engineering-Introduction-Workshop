@@ -34,9 +34,51 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
  <img width="500" src="https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Introduction-Workshop/blob/main/files/generative_ai_evolution.png">
 </p>
 
-## Other Resources 
+## Resources 
 ---
+# Models
+
 [List of Large Language Models (LLMs)](https://github.com/Hannibal046/Awesome-LLM)
+
+# Best Free AI courses for 2024
+
+Want to become an expert in AI? Find out more [here](https://www.zdnet.com/article/the-best-free-ai-courses/)
+
+## AI can make you 10x more productive. 
+
+These 8 websites will help you to become more productive in your life.
+
+1. LandingSite
+Build websites in less than 5 minutes. No coding skills needed.
+🔗 https://landingsite.ai
+
+2. Headshots with AI
+Turn any selfie or picture to Professional LinkedIn Headshots
+🔗 https://www.headshotswithai.com 
+
+3. Take Screen Recordings with Auto Zoom
+🔗 https://gemoo.com/focusee
+
+4. Taplio
+Grow your LinkedIn account with AI.
+🔗 https://taplio.com 
+
+5. Tweet Hunter
+Create Viral Posts on Twitter.
+I have 110K followers on Twitter.
+🔗 https://tweethunter.io 
+
+6. Faceless Video:
+Faceless YouTube or Tiktok Channel to make money automatically
+🔗 https://faceless.video 
+
+7. Decktopus
+Create Presentations with AI in 5 minutes
+🔗 https://www.decktopus.com 
+
+8. Bookwiz
+Write and Publish book in 7 days with AI
+🔗 https://bookwiz.io 
 
 
 
