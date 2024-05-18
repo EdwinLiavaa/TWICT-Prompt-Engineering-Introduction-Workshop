@@ -26,7 +26,7 @@ So join us and be part of the revolution - an AI-powered future that is Pasifika
 
 ## Presentation
 ---
-[Presentation](https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Introduction-Workshop/blob/main/files/Prompt-Engineering-Intro-Gen-AI-101.pdf) 
+Please download the Presentation from [here](https://github.com/EdwinLiavaa/TWICT-Prompt-Engineering-Introduction-Workshop/blob/main/files/Prompt-Engineering-Intro-Gen-AI-101.pdf) 
 
 ## The Evolution of Generative AI
 ---
